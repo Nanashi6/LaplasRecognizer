@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+e01hw2xe0E=",
+  "success": true,
+  "projectFilePath": "C:\\My Data\\University\\РИС\\!!!Last_try\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yury Youzhanka\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Yury Youzhanka\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
